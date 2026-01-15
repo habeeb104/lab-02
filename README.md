@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Habeeb Yusuf`
+- **CCID:** `1719439`
 
 ## References and Resources
 
