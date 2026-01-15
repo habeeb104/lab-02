@@ -6,8 +6,7 @@
 - **CCID:** `1719439`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+ChaGPT: Prompt - "How do I format my buttons so they do not overlap?"
 
 ## Verbal Collaboration
 
